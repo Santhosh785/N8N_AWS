@@ -3,7 +3,7 @@ const app = express();
 const PORT = 3000;
 
 app.get('/', (req, res) => {
-  res.send('🚀 Hello from SimpleNodeApp deployed via Lambdaaaass + nn8nn!');
+  res.send('🚀 Hello from SimpleNodeApp deployed via Lambdaaaassssssssnjns + nn8nn!');
 });
 
 app.listen(PORT, () => {
