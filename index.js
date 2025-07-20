@@ -41,7 +41,7 @@ app.get('/', (req, res) => {
         <div class="rocket">🚀</div>
         <h1>Welcome to My Auto Deployment Demo!</h1>
         <p>Powered by <strong>AWS Lambda</strong>, <strong>Docker</strong>, and <strong>n8n</strong></p>
-        <p>Built & maintained by <em>Saanthoshhhhhjjh</em></p>
+        <p>Built & maintained by <em>Saanthosh</em></p>
       </body>
     </html>
   `);
